@@ -1,6 +1,6 @@
 # kopibabeh_shop
 
-A new Flutter project.
+sangat disarankan untuk menggunakan device iphone xr
 
 ## Getting Started
 
